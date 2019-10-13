@@ -34,7 +34,7 @@
         android:adjustViewBounds="true"
         android:padding="@dimen/padding_regular"
         android:src="@drawable/donut_circle"
-        android:maxHeight="150dp"
+        android:maxHeight="149dp"
         />
 
     <TextView
